@@ -1,4 +1,4 @@
-# The Space Weather Ontology
+# The Space Weather Ontology (The Astrometeorology Ontology)
 
 ### Scope
 An ontology representing the domain of space weather to the extent it is a domain unto itsef. As such it will focus on weather phenomena in the astronomical environment as described by astronmers, stellar and planetary physicist and astrophysicists. 
