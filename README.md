@@ -17,7 +17,7 @@ A module, usable by itself, but also part of the author's wider astronomical env
 * To support data-sharing
 * To support the mitigation of hazards associated with astrometeorological phenomena
 
-### Status & Access
+### Status
 * In-progress as circumstances permit. Subject to revision. 
 * As a unfunded personal project, continued development is dependent on circumstances. Formal support is needed to complete and sustain development. [Contact the author](https://ontospace.wordpress.com/contact) to formally support the project in some way. Donations are welcome at the below web-links.  
 
