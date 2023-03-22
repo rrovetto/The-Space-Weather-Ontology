@@ -1,4 +1,4 @@
-# The Space Weather Ontology (The Astrometeorology Ontology)
+# The Space Weather Ontology ([The Astrometeorology Ontology](https://github.com/rrovetto/Astrometeorology-Ontology/blob/main/README.md))
 An ontology about space weather.
 
 ## Description
