@@ -8,7 +8,7 @@ See also the ORSD.
 An ontology representing the domain of space weather to the extent it is a domain unto itsef. As such it will focus on weather phenomena in the astronomical environment as described by astronmers, stellar and planetary physicists, astrophysicists, etc. A causal aspect is included to provide impact on human lives and infrastructures. For long-term use and sustainability, the ontology is intended to capture generic space weather terms and concepts applicable to any stellar or planetary system, rather than only for Earth. However, given the state of space-faring activity, the target phenomena is largely focused on the near-Earth space weather environment. 
 
 ### Architecture
-A module, usable by itself, but also part of the author's wider astronomical environment and space situational awareness ontology suite.
+A module, usable by itself, but also part of the author's wider astronomical environment ontology, and [space domain knowledge modeling](https://purl.org/space-ontology) suite of ontologies.
 
 ### Purpose
 * To formally represent the target phenomena in a computable manner
